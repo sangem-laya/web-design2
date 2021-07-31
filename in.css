@@ -1,0 +1,159 @@
+body{
+    background-color:ghostwhite;
+}
+
+div.div1{
+    position: absolute;
+    top:200px;
+    left:700px;
+    
+}
+div.div2{
+    position: absolute;
+    top: 380px;
+    left:1120px;
+  
+}
+img.img{
+    height: 100px;
+    width: 100px;
+    
+}
+div.div3{
+    position: absolute;
+    top: 400px;
+    left:1030px;
+  
+}
+img.img1{
+    height: 70px;
+    width: 120px;
+    border-radius: 15%;
+}
+div.div4{
+    position: absolute;
+    top: 350px;
+    left:850px;
+    height: 100px;
+    width:100px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10%;
+  
+}
+
+img.img2 {
+    
+    height: 50px;
+    width: 50px;
+    border-radius: 20%;
+}
+div.div5{
+    position: absolute;
+    top: 520px;
+    left:850px;
+    height: 30px;
+    width:170px;
+    background-color: white;
+  
+    border-radius: 5%;
+  }
+  img.img4 {
+      position: absolute;
+      top: 10px;
+    left: 5px;
+    height: 90px;
+    width: 20px;
+    border-radius: 20%;
+}
+
+div.div6{
+    position: absolute;
+    top: 480px;
+    left:970px;
+    height: 30px;
+    width:170px;
+    background-color: white;
+  
+    border-radius: 5%;
+  }
+  img.img5{
+     
+    height: 20px;
+    width: 20px;
+    border-radius: 20%;
+      
+  }
+  
+div.d2{
+    position: absolute;
+    top:13px;
+    left:450px;
+    color: blue;
+}
+div.d3{
+    position: absolute;
+    top:13px;
+    left:550px;
+    color: blue;
+}
+div.d4{
+    position: absolute;
+    top:13px;
+    left:650px;
+    color: blue;
+}
+div.d5{
+    position: absolute;
+    top:13px;
+    left:750px;
+    color: blue;
+}
+div.d6{
+    position: absolute;
+    top:13px;
+    left:1050px;
+    color:black;
+}
+div.d7{
+    position: absolute;
+    top:13px;
+    left:1200px;
+    color: blue;
+}
+div.d8{
+    position:absolute;
+    top:150px;
+    color: blue;   
+    left: 50px;
+}
+
+button.btn1{
+    border-radius: 5px;
+      height: 40px;
+      width: 130px;
+      background-color:orangered;
+      border-color:orangered;
+      color: white;
+  }
+  button.btn2{
+    border-radius: 5px;
+      height: 40px;
+      width: 130px;
+      background-color:white;
+      border-color:orangered;
+      color:orangered;
+  }
+  button.btn3{
+    border-radius: 5px;
+      height: 40px;
+      width: 130px;
+      background-color:khaki;
+      border-color:khaki;
+      color: black;
+  }
+  img.img6{
+      height: 20px;
+      width:20px;
+  }
+  
